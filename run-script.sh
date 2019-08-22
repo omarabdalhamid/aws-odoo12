@@ -6,3 +6,4 @@ cp odoo-server.conf /etc/
 chown odoo:odoo /etc/odoo-server.conf
 service nginx restart
 service odoo-server restart
+cp -r /odoo/.local /opt/
