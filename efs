@@ -1,0 +1,2 @@
+fs-7d672f04.efs.us-east-2.amazonaws.com:/           /Backup  nfs4    defaults,_netdev        0 0
+fs-6b6c2412.efs.us-east-2.amazonaws.com:/           /etc/odoo  nfs4    defaults,_netdev        0 0
